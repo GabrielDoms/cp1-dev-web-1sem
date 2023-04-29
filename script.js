@@ -1,4 +1,4 @@
-//alert("Seja muito bem vindo na Vinheiria City");
+alert("Seja muito bem vindo na Vinheiria City");
 
 
 
