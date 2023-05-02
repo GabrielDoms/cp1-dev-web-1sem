@@ -109,14 +109,18 @@ button {
 	padding: 50px 0;
 }
 
+main {
+    min-height: 500px;
+}
+
 #img1 {
-    width: 400px;
+    width: 20rem;
     padding: 50px 5px;
 }
 
 #img2 {
-    width: 400px;
-    height: 235px;
+    width: 20rem;
+    height: 12rem;
     padding: 50px 10px;
 }
 
@@ -156,13 +160,13 @@ footer background {
 }
 
 #img01b {
-    height: 250px;
-    width: 250px;
+
+    width: 8rem;
 }
 
 #img02b {
-    height: 250px;
-    width: 250px;
+    
+    width: 8rem;
     margin: 0 0 0 70%;
 }
 

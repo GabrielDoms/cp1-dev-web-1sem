@@ -87,6 +87,8 @@ button {
     background-color: red; 
     color: black
 }
+
+
   
   .cor2 {
     background-color: green; 
@@ -103,6 +105,10 @@ button {
     color: black
 }
 
+main {
+    min-height: 500px;
+}
+
 
 .quiz01 {
     text-align: center;
@@ -117,7 +123,6 @@ button {
 
 footer {
     position: relative;
-    margin-top: 19.5%;
     background: url(image/bg.jpg);
     text-align: center;
 }
@@ -128,13 +133,13 @@ footer background {
 }
 
 #img01b {
-    height: 250px;
-    width: 250px;
+
+    width: 8rem;
 }
 
 #img02b {
-    height: 250px;
-    width: 250px;
+    
+    width: 8rem;
     margin: 0 0 0 70%;
 }
 
